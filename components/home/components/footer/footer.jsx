@@ -29,12 +29,12 @@ const Footer = () => {
                     <div className='icon'>
                         <Image src={PhoneIcon} alt="" />
                     </div>
-                    <span>support@readreuse.in</span>
+                    <span>+91-99264-88445</span>
                 </div>
             </div>
         </div>
         <div className='copyright-section'>
-        Copyright © 2022. ReadReuse All Right Reserved
+        Copyright © 2023. ReadReuse All Right Reserved
         </div>
     </FooterStyles>
   )
