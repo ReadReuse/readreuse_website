@@ -26,6 +26,8 @@ export const FeaturesStyles = styled.div`
             align-items: center;
             letter-spacing: 0.05em;
             color: #000000;
+            text-align: justify;
+            text-justify: inter-word;
         }
     }
     @media (max-width: 500px) {

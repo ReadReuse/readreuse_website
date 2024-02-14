@@ -9,7 +9,7 @@ export const HomeStyled = styled.div`
         align-items: center;
         font-family: 'Nunito';
         font-style: normal;
-        background: #FDF1EF;
+        background: rgba(243, 149, 79, 0.2);
         font-weight: 800;
         font-size: 32px;
         line-height: 44px;

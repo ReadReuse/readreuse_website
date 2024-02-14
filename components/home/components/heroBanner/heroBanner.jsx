@@ -8,7 +8,8 @@ const HeroBanner = () => {
     <HeroBannerStyles>
         <div className='left-section'>
             <div className='text'>
-            Your one-stop shop for learning <br/> and sharing.
+            {/* Your one-stop shop for learning <br/> and sharing. */}
+            Last-Minute Short Notes for Boosting <br /> Confidence in Exams!
             </div>
             <div className='button'>
                 <button>Download the app</button>

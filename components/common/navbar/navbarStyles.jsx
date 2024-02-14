@@ -15,13 +15,13 @@ export const NavbarStyle = styled.div`
     font-weight: 800;
     font-size: 2.7777777777777777vw;
     line-height: 3.8194444444444446vw;
-    color: #f56457;
+    color: rgba(243, 149, 79, 1);
   }
   .download-text {
     font-weight: 800;
     font-size: 20px;
     line-height: 27px;
-    color: #f56457;
+    color: rgba(243, 149, 79, 1);
     cursor: pointer;
   }
   @media (max-width: 500px) {

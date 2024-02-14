@@ -11,7 +11,8 @@ const Home = () => {
         <Navbar />
         <HeroBanner />
         <div className='text-wrapper'>
-        ReadReuse is platform where college students can sell <br /> their old book and college related stuff directly to others.
+        {/* ReadReuse is platform where college students can sell <br /> their old book and college related stuff directly to others. */}
+        ReadReuse App, Your Key to Last-Minute Mastery! <br /> Dive into Quick Notes and Previous Year Question Paper
         </div>
         <Feature />
         <Footer />

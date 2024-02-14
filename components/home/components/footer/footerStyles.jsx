@@ -17,7 +17,7 @@ export const FooterStyles = styled.div`
     align-items: center;
     height: 20vw;
     flex-direction: column;
-    background: #fdf1ef;
+    background: rgba(243, 149, 79, 0.2);
     .google-img {
       cursor: pointer;
     }
@@ -56,7 +56,7 @@ export const FooterStyles = styled.div`
   }
   .copyright-section{
     height: 6vw;
-    background: #F56457;
+    background: rgba(243, 149, 79, 1);
     display: flex;
     justify-content: center;
     align-items: center;

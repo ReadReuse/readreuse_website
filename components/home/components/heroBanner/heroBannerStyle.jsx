@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const HeroBannerStyles = styled.div`
     width: 100%;
     height: 60vh;
-    background: linear-gradient(90.15deg, #F7F9F4 0.12%, rgba(247, 230, 224, 0.856688) 12.58%, rgba(246, 208, 201, 0.2) 27.34%, rgba(246, 188, 180, 0.3) 41.08%, rgba(246, 171, 162, 0.4) 52.28%, rgba(246, 153, 143, 0.5) 64.23%, rgba(245, 137, 125, 0.6) 75.43%, rgba(245, 118, 106, 0.7) 87.64%, rgba(245, 100, 87, 0.9) 99.87%);
+    background: linear-gradient(90.15deg, #F7F9F4 0.12%, rgba(247, 230, 224, 0.856688) 12.58%, rgba(243, 149, 79, 0.2)    27.34%, rgba(243, 149, 79, 0.3)    41.08%, rgba(243, 149, 79, 0.4)    52.28%, rgba(243, 149, 79, 0.5)    64.23%, rgba(243, 149, 79, 0.6) 75.43%, rgba(243, 149, 79, 0.7) 87.64%, rgba(243, 149, 79, 0.9)    99.87%);
     padding: 0 4vw;
     display: flex;
     align-items: center;
@@ -20,7 +20,7 @@ export const HeroBannerStyles = styled.div`
         }
         .button{
             button {
-                background: #F56457;
+                background: rgba(243, 149, 79, 1);
                 border-radius: 50px;
                 border: none;
                 outline: none;
