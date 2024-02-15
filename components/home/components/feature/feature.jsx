@@ -1,7 +1,7 @@
 import React from 'react'
 import { FeaturesStyles } from './featureStyles'
-import Feature1 from 'assets/Feature1.svg'
-import Feature2 from 'assets/Feature2.svg'
+import Feature1 from 'assets/Feature1.png'
+import Feature2 from 'assets/Feature2.png'
 import Image from 'next/image'
 
 const Feature = () => {
@@ -20,6 +20,7 @@ Unlock last-minute success with ReadReuse's Quick Notes – a game-changer for e
             </div>
             <div className='right-section'>
                 <div className='image'>
+                    
                     <Image src={Feature1} alt="" />
                 </div>
             </div>
@@ -27,7 +28,7 @@ Unlock last-minute success with ReadReuse's Quick Notes – a game-changer for e
         <div className='flex flex-mobile'>
             <div className='left-section'>
             <div className='image'>
-                    <Image src={Feature2} alt="" />
+                    <Image className='img' src={Feature2} alt="" />
                 </div>
             </div>
             <div className='right-section'>
